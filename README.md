@@ -1,7 +1,7 @@
 # COMPILER_DESIGN_EX2
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-# NAME: KARNAM PAREESH NAIDU
-# REG.NO:212225230129 
+# NAME: CHEVURU KOUSHIK
+# REG.NO:212225240028
 # DATE: 04-11-2026
 # AIM:
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
